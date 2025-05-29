@@ -3,3 +3,6 @@ APELLIDO Y NOMBRE
 ALPHA: Castellano, Axel
 BETA: Espósito, Franco
 GAMMA: Castrataro, Paulina
+
+c- Si, gamma puede actualizar su fork al estado del fork de alpha.
+d- No, los datos no se pierden.
