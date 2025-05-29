@@ -3,3 +3,6 @@ APELLIDO Y NOMBRE
 ALPHA: Castellano, Axel
 BETA: Espósito, Franco
 GAMMA: Castrataro, Paulina
+
+a - Lo actualizo sincronizandolo y luego hago un pull para traerlo a mi PC
+b - No, no se pudo actualizar
