@@ -3,3 +3,20 @@ APELLIDO Y NOMBRE
 ALPHA: Castellano, Axel
 BETA: Espósito, Franco
 GAMMA: Castrataro, Paulina
+
+RESPUESTA ALPHA: 
+e)
+- Castellano Axel y Castrataro Paulina hacen un fork del repositorio de Espósito Franco 
+
+- Castellano y Castrataro, que hicieron un Fork de Espósito, modifican el archivo fork.txt con sus respuestas
+
+- Castellano y Castrataro hacen un push y actualizan sus repositorios "fork" con los archivos que modificaron
+
+- Castellano y Castrataro sincronizan sus repositorios "fork" para ver los cambios que hizo Espósito en el repo "padre"
+
+- Castellano y Castrataro hacen un pull y se traen los cambios del repo "padre" de Espósito
+
+- Castellano y Castrataro modifican el archivo de respuestas y vuelven a hacer un push en sus respectivos repos
+
+- Castellano y Castrataro hacen un "pull request" a Espósito para que vea y acepte los cambios que hicieron en su archivo
+
