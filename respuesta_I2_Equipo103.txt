@@ -4,5 +4,10 @@ ALPHA: Castellano, Axel
 BETA: Espósito, Franco
 GAMMA: Castrataro, Paulina
 
+
 a - Lo actualizo sincronizandolo y luego hago un pull para traerlo a mi PC
 b - No, no se pudo actualizar
+
+c- Si, gamma puede actualizar su fork al estado del fork de alpha.
+d- No, los datos no se pierden.
+
