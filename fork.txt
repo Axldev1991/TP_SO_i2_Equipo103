@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Nombre y apellido: Paulina Castrataro
 IP: 201.177.225.80
 Hora:11:29
@@ -9,3 +10,5 @@ Alfa: Castellano, Axel
 Beta: Espósito, Franco
 Gamma: Castrataro, Paulina
 >>>>>>> 16ad4bd95d382d25e3517bc2b04ebd25768c3447
+=======
+>>>>>>> d121eeb020acceadcf56ff934df3c47158206246
