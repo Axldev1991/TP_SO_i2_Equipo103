@@ -5,7 +5,10 @@ BETA: Espósito, Franco
 GAMMA: Castrataro, Paulina
 
 
-RESPUESTA ALPHA: 
+a - Lo actualizo sincronizandolo y luego hago un pull para traerlo a mi PC
+b - No, no se pudo actualizar
+c- Si, gamma puede actualizar su fork al estado del fork de alpha.
+d- No, los datos no se pierden.
 e)
 - Castellano Axel y Castrataro Paulina hacen un fork del repositorio de Espósito Franco 
 
@@ -20,12 +23,5 @@ e)
 - Castellano y Castrataro modifican el archivo de respuestas y vuelven a hacer un push en sus respectivos repos
 
 - Castellano y Castrataro hacen un "pull request" a Espósito para que vea y acepte los cambios que hicieron en su archivo
-
-
-a - Lo actualizo sincronizandolo y luego hago un pull para traerlo a mi PC
-b - No, no se pudo actualizar
-
-c- Si, gamma puede actualizar su fork al estado del fork de alpha.
-d- No, los datos no se pierden.
 
 
