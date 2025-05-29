@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 NOMBRE Y APELLIDO : Castellano Gutiérrez Axel
 IP: 186.13.112.67	
 HORA: 11:26
+=======
+APELLIDO Y NOMBRE:
+
+Alfa: Castellano, Axel
+Beta: Espósito, Franco
+Gamma: Castrataro, Paulina
+>>>>>>> 16ad4bd95d382d25e3517bc2b04ebd25768c3447
